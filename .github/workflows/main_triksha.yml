@@ -53,4 +53,5 @@ jobs:
           app-name: 'Triksha'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC677161C86C486EB177F0E5B096C9A5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CRYPTOBACKEND
+ }}
